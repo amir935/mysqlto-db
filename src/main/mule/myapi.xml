@@ -20,7 +20,7 @@ output application/json
     "Gender__c": "Male",
     "Product__c": "Nighty",
     "Phone_Number__c": "",
-    "Name": "",
+    "Name": "elham",
     "Address__c": "Ethiopia",
     "Email__c": "",
     "Payment_mode__c": "Birr",
